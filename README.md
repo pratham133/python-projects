@@ -1,29 +1,34 @@
-# Python Projects 🐍
+# 🐍 Python Projects
 
-Standalone Python projects built while learning **software engineering, data analytics, and AI fundamentals**.
+Welcome to my Python Projects repository!
 
-This repository is dedicated to **project-based practice** and contains complete Python projects built separately from my learning/foundations repository.
+This repository contains standalone Python projects built while learning **Python**, **software engineering**, **data analytics**, and **AI fundamentals**.
 
-## Repository Purpose
-This repo is for:
-- Standalone Python projects
-- Mini-projects and practice applications
-- Hands-on implementation of Python concepts
-- Cleaner project showcases for portfolio/recruiter review
+Each project focuses on strengthening core programming concepts and improving problem-solving skills.
 
-## Related Repository
-My day-by-day Python learning journey, foundations practice, and concept-based exercises are maintained separately in:
+---
 
-- **python-foundations**
+## 📂 Projects
 
-## Projects
+| Project                      | Status      | Concepts                                                          |
+| ---------------------------- | ----------- | ----------------------------------------------------------------- |
+| 🎓 Student Management System | ✅ Completed | Functions, Lists, Dictionaries, File Handling, Exception Handling |
 
-### 1. Student Management System
-A beginner Python project to manage student records using:
-- functions
-- lists/dictionaries
-- loops and conditions
-- file handling
-- exception handling
+More projects will be added as I continue my learning journey.
 
-> More projects will be added here over time.
+---
+
+## 🎯 Goals
+
+* Build real-world Python projects
+* Write clean and readable code
+* Practice software engineering principles
+* Create a strong GitHub portfolio
+
+---
+
+## 👨‍💻 Author
+
+**Pratham Pasi**
+
+Aspiring AI/ML Engineer | Learning one project at a time 🚀
