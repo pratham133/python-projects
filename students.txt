@@ -1,0 +1,2 @@
+Pratham Pasi,22,Python
+Swati Pasi,19,Data Analyst
